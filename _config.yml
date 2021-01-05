@@ -2,8 +2,8 @@
 title: Apex test
 timezone: UTC
 collections:
-  articles:
-    title: Articles
+  biz:
+    title: Business Listings
     output: true
   posts:
     title: Posts
