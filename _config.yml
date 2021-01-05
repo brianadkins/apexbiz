@@ -1,5 +1,7 @@
 ---
 title: Apex test
+url: https://apexnc.biz
+description: Listing of local businesse in Apex, NC
 timezone: UTC
 collections:
   biz:
@@ -24,3 +26,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+
