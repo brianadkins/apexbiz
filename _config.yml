@@ -26,3 +26,5 @@ defaults:
 url: https://apexnc.biz
 description: Listing of local businesse in Apex, NC
 permalink: pretty
+
+theme: jekyll-theme-slate
